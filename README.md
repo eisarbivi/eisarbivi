@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @eisarbivi
+- 👋 Hi, I’m Bady (@eisarbivi)
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning Calculus, Python, R, and SQL
